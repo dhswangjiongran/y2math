@@ -1,5 +1,5 @@
 # Find median of n numbers
-A = [4, 1, 5, 6, 2, 5]
+A = [1, 3, 8, 7, 9, 6]
 
 A.sort()
 print(A)
